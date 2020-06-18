@@ -1,0 +1,1 @@
+Virtual Dom: Es una herramienta que implementa react para darle performance y velocidad a nuestros desarrollos.
